@@ -1,0 +1,346 @@
+{
+  "hero": {
+    "title": "SEJA MVP",
+    "subtitle": "A cidade que você merece",
+    "description": "Se divirta em um servidor de FiveM do jeito que tem que ser, seja você mesmo, não um outro alguém, aqui é um jogo, não a sua segunda vida."
+  },
+  "about": {
+    "title": "Sobre a Cidade",
+    "description": "SEJA MVP é uma cidade de Academy onde cada jogador constrói sua própria história. Com sistemas únicos, economia realista e uma comunidade acolhedora, oferecemos a experiência definitiva de RP.",
+    "features": [
+      {
+        "title": "Economia Realista",
+        "description": "Sistema econômico complexo com empregos, empresas e mercado dinâmico."
+      },
+      {
+        "title": "Comunidade Ativa",
+        "description": "Milhares de jogadores criando histórias e experiências únicas todos os dias."
+      },
+      {
+        "title": "Sistemas Exclusivos",
+        "description": "Mecânicas próprias desenvolvidas para a melhor experiência de roleplay."
+      },
+      {
+        "title": "Suporte 24/7",
+        "description": "Equipe dedicada para garantir a melhor experiência para todos os jogadores."
+      }
+    ]
+  },
+  "howToPlay": {
+    "title": "Como Jogar",
+    "steps": [
+      {
+        "step": 1,
+        "title": "Baixe o FiveM",
+        "description": "Faça o download do FiveM em fivem.net e instale no seu computador."
+      },
+      {
+        "step": 2,
+        "title": "Entre no Discord",
+        "description": "Acesse nosso Discord para fazer a whitelist e conhecer a comunidade."
+      },
+      {
+        "step": 3,
+        "title": "Faça a Whitelist",
+        "description": "Complete o processo de whitelist respondendo o formulário no Discord."
+      },
+      {
+        "step": 4,
+        "title": "Conecte-se",
+        "description": "Use o IP do servidor no FiveM e comece sua nova vida na cidade."
+      }
+    ]
+  },
+  "calendar": [
+    {
+      "id": "1773835167424",
+      "date": "2026-03-18",
+      "title": "Novo Evento",
+      "description": "hhhh",
+      "type": "evento",
+      "createdBy": "sarigue",
+      "createdAt": "2026-03-18T12:09:44.057Z",
+      "updatedBy": "sarigue",
+      "updatedAt": "2026-03-18T12:09:44.057Z"
+    }
+  ],
+  "updates": [
+    {
+      "id": "1775300000000",
+      "date": "2026-03-14",
+      "title": "Cargo Booster",
+      "description": "- O cargo Booster foi completamente removido do servidor.",
+      "tags": [
+        "remoção",
+        "sistema",
+        "balanceamento"
+      ],
+      "createdBy": "Sarigue",
+      "createdAt": "2026-03-14T15:00:00.000Z",
+      "updatedBy": "Sarigue",
+      "updatedAt": "2026-03-14T15:00:00.000Z"
+    },
+    {
+      "id": "1775200000000",
+      "date": "2026-03-14",
+      "title": "Interfaces",
+      "description": "- Padronização das interfaces do servidor no estilo Safari/macOS, com transparência e identidade visual unificada.\n- Ajustes visuais aplicados em diferentes sistemas para manter consistência.",
+      "tags": [
+        "interface",
+        "visual",
+        "sistema"
+      ],
+      "createdBy": "Sarigue",
+      "createdAt": "2026-03-14T15:00:00.000Z",
+      "updatedBy": "Sarigue",
+      "updatedAt": "2026-03-14T15:00:00.000Z"
+    },
+    {
+      "id": "1775100000000",
+      "date": "2026-03-14",
+      "title": "Fabricação",
+      "description": "- O custo de dinheiro sujo necessário para fabricar o GPS foi reduzido de $100.000 para $25.000.",
+      "tags": [
+        "fabricação",
+        "balanceamento",
+        "sistema"
+      ],
+      "createdBy": "Sarigue",
+      "createdAt": "2026-03-14T15:00:00.000Z",
+      "updatedBy": "Sarigue",
+      "updatedAt": "2026-03-14T15:00:00.000Z"
+    },
+    {
+      "id": "1775000000000",
+      "date": "2026-03-14",
+      "title": "Barbearia",
+      "description": "- Interface renovada e reposicionada à direita da tela.\n- Correções aplicadas para evitar conflitos com aparência do personagem ao relogar.\n- Degradês adicionados.",
+      "tags": [
+        "interface",
+        "barbearia",
+        "correção"
+      ],
+      "createdBy": "Sarigue",
+      "createdAt": "2026-03-14T15:00:00.000Z",
+      "updatedBy": "Sarigue",
+      "updatedAt": "2026-03-14T15:00:00.000Z"
+    },
+    {
+      "id": "1774900000000",
+      "date": "2026-03-14",
+      "title": "Casas",
+      "description": "- Blips de casas compradas agora aparecem corretamente no mapa de forma global.\n- Ajustes gerais na sincronização de permissões e acesso ao apartamento inicial.",
+      "tags": [
+        "propriedades",
+        "sistema",
+        "correção"
+      ],
+      "createdBy": "Sarigue",
+      "createdAt": "2026-03-14T15:00:00.000Z",
+      "updatedBy": "Sarigue",
+      "updatedAt": "2026-03-14T15:00:00.000Z"
+    },
+    {
+      "id": "1774800000000",
+      "date": "2026-03-14",
+      "title": "Apartamento Inicial",
+      "description": "- Todos os jogadores que não possuem casa agora recebem acesso a um apartamento no Eclipse Tower.\n- O apartamento possui baú com 30kg de capacidade.\n- O blip \"Apartamento\" aparece apenas para quem possui acesso.\n- Ao comprar uma casa, o acesso ao apartamento inicial é removido automaticamente.\n- O apartamento inicial não pode mais ser vendido.\n- O baú do apartamento inicial não pode mais ser aumentado.",
+      "tags": [
+        "propriedades",
+        "sistema",
+        "novos jogadores"
+      ],
+      "createdBy": "Sarigue",
+      "createdAt": "2026-03-14T15:00:00.000Z",
+      "updatedBy": "Sarigue",
+      "updatedAt": "2026-03-14T15:00:00.000Z"
+    },
+    {
+      "id": "1774200000000",
+      "date": "2026-03-14",
+      "title": "Tablet",
+      "description": "- O tablet agora é acessado diretamente pela tecla G.\n- Interface inspirada em iPad/Apple, com visual minimalista e identidade visual do servidor.\n- Estrutura expandida para múltiplos aplicativos.",
+      "tags": [
+        "interface",
+        "sistema",
+        "tablet"
+      ],
+      "createdBy": "Sarigue",
+      "createdAt": "2026-03-14T15:00:00.000Z",
+      "updatedBy": "Sarigue",
+      "updatedAt": "2026-03-14T15:00:00.000Z"
+    },
+    {
+      "id": "1774700000000",
+      "date": "2026-03-14",
+      "title": "Aplicativo: Lavanderia",
+      "description": "- Novo sistema de lavagem de dinheiro sujo via tablet.\n- Marque a localização do NPC da lavanderia pelo aplicativo.\n- Envie dinheiro sujo ao NPC pelo inventário, usando a ação Enviar, como se fosse para outro jogador.\n- O valor total é liberado gradualmente ao longo de 25 minutos.\n- O dinheiro limpo pode ser resgatado a qualquer momento apertando E no NPC.\n- O valor disponível para resgate aparece acima da cabeça do NPC.\n- Se a lavanderia estiver em uso, o jogador recebe aviso com som e GPS.\n- Qualquer jogador pode resgatar o dinheiro limpo do NPC.\n- Caso outra pessoa retire o dinheiro sem ser quem depositou, os depositantes recebem alerta com som: \"O Gringo está sendo roubado!\".\n- A notificação de roubo foi deixada propositalmente genérica, sem mostrar quem sacou e nem o valor.\n- O NPC da lavanderia utiliza animação gangster.\n- A lavanderia agora possui 13 possíveis localizações, incluindo pontos no norte do mapa, todas escolhidas para ficarem afastadas de roubos e fora de montanhas.\n- A Boate Bahamas recebeu um blip fixo no mapa, no padrão dos demais blips do servidor.",
+      "tags": [
+        "tablet",
+        "economia",
+        "sistema"
+      ],
+      "createdBy": "Sarigue",
+      "createdAt": "2026-03-14T15:00:00.000Z",
+      "updatedBy": "Sarigue",
+      "updatedAt": "2026-03-14T15:00:00.000Z"
+    },
+    {
+      "id": "1774600000000",
+      "date": "2026-03-14",
+      "title": "Aplicativo: Minha Casa",
+      "description": "- Gerencie suas propriedades diretamente pelo tablet com interface premium em tons verdes.\n- Funções disponíveis:\n- Verificar permissões.\n- Dar acesso.\n- Remover acesso.\n- Aumentar baú.\n- Transferir.\n- Pagar IPTU.\n- Vender casa.\n- Visualize jogadores próximos para interações rápidas.\n- Botão \"Casas disponíveis\" para marcar imóveis à venda no mapa.\n- Ao clicar em \"Remover acesso\", agora abre uma lista com todos os jogadores que possuem permissão naquela casa, permitindo selecionar diretamente quem será removido.",
+      "tags": [
+        "tablet",
+        "propriedades",
+        "sistema"
+      ],
+      "createdBy": "Sarigue",
+      "createdAt": "2026-03-14T15:00:00.000Z",
+      "updatedBy": "Sarigue",
+      "updatedAt": "2026-03-14T15:00:00.000Z"
+    },
+    {
+      "id": "1774500000000",
+      "date": "2026-03-14",
+      "title": "Aplicativo: Passe de Batalha",
+      "description": "- Passe de Batalha acessível diretamente pelo tablet.\n- Aplicativo em destaque com borda arco-íris.\n- Foi adicionado um botão \"Localização\" na interface do Passe de Batalha.\n- O botão foi reposicionado para a barra superior direita e recebeu cor laranja.\n- A mensagem de coleta fora do local foi ajustada para o novo texto do servidor.",
+      "tags": [
+        "tablet",
+        "passe de batalha",
+        "interface"
+      ],
+      "createdBy": "Sarigue",
+      "createdAt": "2026-03-14T15:00:00.000Z",
+      "updatedBy": "Sarigue",
+      "updatedAt": "2026-03-14T15:00:00.000Z"
+    },
+    {
+      "id": "1774400000000",
+      "date": "2026-03-14",
+      "title": "Aplicativo: Roubos",
+      "description": "- O antigo comando /roubos agora funciona exclusivamente pelo tablet.",
+      "tags": [
+        "tablet",
+        "roubos",
+        "sistema"
+      ],
+      "createdBy": "Sarigue",
+      "createdAt": "2026-03-14T15:00:00.000Z",
+      "updatedBy": "Sarigue",
+      "updatedAt": "2026-03-14T15:00:00.000Z"
+    },
+    {
+      "id": "1774300000000",
+      "date": "2026-03-14",
+      "title": "Aplicativo: Corrida Ilegal",
+      "description": "- Corridas ilegais agora funcionam exclusivamente pelo tablet.\n- Rotação automática de corridas a cada 15 minutos.\n- Premiação entre $40.000 e $90.000 em dinheiro sujo.\n- Botão para marcar o GPS do início da corrida.\n- Botão de iniciar corrida ativado apenas quando o jogador está no local em um veículo válido.\n- Sistema multiplayer com lobby para até 12 corredores.\n- Tabela de classificação em tempo real.\n- Countdown de 1 minuto antes da largada.\n- Lock global: apenas uma corrida por vez, com 3 minutos de cooldown após o término.\n- Checkpoints e marcações do GPS agora usam a cor laranja.\n- Falhar na corrida gera 30 minutos de cooldown individual, sem explosão do veículo.",
+      "tags": [
+        "corridas",
+        "tablet",
+        "sistema"
+      ],
+      "createdBy": "Sarigue",
+      "createdAt": "2026-03-14T15:00:00.000Z",
+      "updatedBy": "Sarigue",
+      "updatedAt": "2026-03-14T15:00:00.000Z"
+    },
+    {
+      "id": "1774100000000",
+      "date": "2026-03-14",
+      "title": "Rotas de Droga",
+      "description": "- Aumento de 25% na chance de drop de cápsula nas rotas.",
+      "tags": [
+        "drogas",
+        "loot",
+        "balanceamento"
+      ],
+      "createdBy": "Sarigue",
+      "createdAt": "2026-03-14T15:00:00.000Z",
+      "updatedBy": "Sarigue",
+      "updatedAt": "2026-03-14T15:00:00.000Z"
+    },
+    {
+      "id": "1774000000000",
+      "date": "2026-03-14",
+      "title": "Festa",
+      "description": "- NPCs informativos em 3 locais da cidade indicam a localização da festa e marcam no GPS.\n- Novos itens possíveis na festa:\n- Bandagem.\n- Kit médico.\n- Drogas roubadas.\n- Itens de fabricação, como GPS e lockpick.\n- Removido o cooldown antigo de 30 segundos.\n- Removida a notificação de sucesso ao vasculhar itens.\n- Aumento de 45% na chance de drop de peça de arma antiga.\n- O limite de vasculhar a festa foi aumentado de 10 para 25 vezes.\n- Cada prop da festa agora possui cooldown individual de 2 minutos.\n- A notificação mostrando quantos segundos faltavam para vasculhar novamente foi removida.",
+      "tags": [
+        "evento",
+        "loot",
+        "sistema"
+      ],
+      "createdBy": "Sarigue",
+      "createdAt": "2026-03-14T15:00:00.000Z",
+      "updatedBy": "Sarigue",
+      "updatedAt": "2026-03-14T15:00:00.000Z"
+    },
+    {
+      "id": "1773900000000",
+      "date": "2026-03-14",
+      "title": "Lixeiras",
+      "description": "- Cooldown individual por lixeira ao vasculhar, incentivando exploração de diferentes pontos.\n- O sistema passou por ajustes para evitar repetição excessiva e melhorar o fluxo do tutorial.",
+      "tags": [
+        "sistema",
+        "tutorial",
+        "lixeiras"
+      ],
+      "createdBy": "Sarigue",
+      "createdAt": "2026-03-14T15:00:00.000Z",
+      "updatedBy": "Sarigue",
+      "updatedAt": "2026-03-14T15:00:00.000Z"
+    },
+    {
+      "id": "1773800000000",
+      "date": "2026-03-14",
+      "title": "Tutorial para Novos Jogadores",
+      "description": "- Jogadores no primeiro login agora recebem um tutorial guiado com lista de tarefas na tela.\n- O tutorial inclui:\n- Alugar uma Faggio.\n- Ir até o trabalho de lixeiro.\n- Vasculhar 5 lixeiras.\n- Conhecer a fábrica.\n- Efeitos sonoros e notificações visuais acompanham cada etapa.\n- É possível cancelar o tutorial segurando F7 por 3 segundos.\n- O comando de teste foi alterado para /tutorial, e agora qualquer jogador pode usá-lo.",
+      "tags": [
+        "tutorial",
+        "sistema",
+        "novos jogadores"
+      ],
+      "createdBy": "Sarigue",
+      "createdAt": "2026-03-14T15:00:00.000Z",
+      "updatedBy": "Sarigue",
+      "updatedAt": "2026-03-14T15:00:00.000Z"
+    },
+    {
+      "id": "1773600000000",
+      "date": "2026-03-14",
+      "title": "Atualização de Combate e Mecânicas",
+      "description": "- Agora é possível agachar durante o modo de combate, mesmo após disparar armas.\n- Sistema de anti-combatlogging: jogadores que saírem do servidor enquanto estiverem mortos terão o inventário limpo automaticamente.\n- Se o jogador deslogar morto, os itens agora ficam em uma bolsa temporária no local, podendo ser saqueados por quem possuir o item apropriado.\n- Não é mais possível utilizar o rádio (push-to-talk) enquanto estiver na animação de rolamento.\n- O botão F6 continua cancelando animações, porém não cancela mais a recarga da arma.",
+      "tags": [
+        "combate",
+        "mecanicas",
+        "sistema"
+      ],
+      "createdBy": "Sarigue",
+      "createdAt": "2026-03-14T15:00:00.000Z",
+      "updatedBy": "Sarigue",
+      "updatedAt": "2026-03-14T15:00:00.000Z"
+    },
+    {
+      "id": "1",
+      "date": "2026-02-26",
+      "title": "Lançamento do Site da Comunidade",
+      "description": "Criamos e adicionamos o novo site da comunidade SEJA MVP para centralizar informações, calendário de eventos, atualizações e acesso rápido aos principais links do servidor.",
+      "tags": [
+        "comunidade",
+        "site",
+        "novidade"
+      ],
+      "createdBy": "grindel",
+      "createdAt": "2026-03-14T13:37:22.015Z",
+      "updatedBy": "grindel",
+      "updatedAt": "2026-03-14T13:37:22.015Z"
+    }
+  ],
+  "social": {
+    "discord": "https://discord.gg/sejamvp",
+    "instagram": "https://instagram.com/sejamvp",
+    "youtube": "https://youtube.com/@sejamvp",
+    "tiktok": "https://tiktok.com/@sejamvp"
+  },
+  "storeUrl": "https://mvpgg.centralcart.com.br/"
+}
